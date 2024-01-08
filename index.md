@@ -13,5 +13,9 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ![Allegedly](https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/3-allegedly-ostrich-retro-shirt-ostrich-lover-gift-idea-orange-pieces.jpg)
 
